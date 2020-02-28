@@ -6,6 +6,10 @@ Make a nodeJS project run php files
 
 Follow the steps below to test the examples
 
+### Install php
+
+[PHP: Installation and Configuration - Manual](https://www.php.net/manual/en/install.php)
+
 ### Install dependencies
 
 ```bash
