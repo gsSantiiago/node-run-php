@@ -1,0 +1,24 @@
+{
+  "name": "node-run-php",
+  "version": "1.0.0",
+  "description": "Make a nodeJS project run php files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsSantiiago/node-run-php.git"
+  },
+  "keywords": [
+    "node",
+    "php",
+    "typescript"
+  ],
+  "author": "Guilherme A Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "1.0.2",
+    "express": "4.17.1"
+  }
+}
